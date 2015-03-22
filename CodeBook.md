@@ -60,72 +60,72 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
-Processed Data: Assignment was converted to a subset of the original variables which include the following:
-Subject - identifying number
-Activity - activity type
-tBodyAcc-mean()-X - mean body acceleration on X direction
-tBodyAcc-mean()-Y - mean body acceleration on Y direction
-tBodyAcc-mean()-Z - mean body acceleration on Z direction
-tBodyAcc-std()-X - standard deviation body acceleration on X direction
-tBodyAcc-std()-Y - standard deviation body acceleration on Y direction
-tBodyAcc-std()-Z - standard deviation body acceleration on Z direction
-tGravityAcc-mean()-X - mean gravity acceleration on X direction
-tGravityAcc-mean()-Y - mean gravity acceleration on Y direction
-tGravityAcc-mean()-Z - mean gravity acceleration on Z direction
-tGravityAcc-std()-X - standard deviation gravity acceleration on X direction
-tGravityAcc-std()-Y - standard deviation gravity acceleration on Y direction
-tGravityAcc-std()-Z- standard deviation gravity acceleration on Z direction
-tBodyAccJerk-mean()-X - mean body jerk signals on X direction
-tBodyAccJerk-mean()-Y - mean body jerk signals on Y direction
-tBodyAccJerk-mean()-Z - mean body jerk signals on Z direction
-tBodyAccJerk-std()-X - standard deviation body jerk signals on X direction
-tBodyAccJerk-std()-Y - standard deviation body jerk signals on Y direction
-tBodyAccJerk-std()-Z - standard deviation body jerk signals on Z direction
-tBodyGyro-mean()-X - mean body gyro on X direction
-tBodyGyro-mean()-Y - mean body gyro on Y direction
-tBodyGyro-mean()-Z - mean body gyro on Z direction
-tBodyGyro-std()-X - standard deviation body gyro on X direction
-tBodyGyro-std()-Y - standard deviation body gyro on Y direction
-tBodyGyro-std()-Z - standard deviation body gyro on Z direction
-tBodyGyroJerk-mean()-X - mean body gyro/jerk signal on X direction
-tBodyGyroJerk-mean()-Y - mean body gyro/jerk signal on Y direction
-tBodyGyroJerk-mean()-Z - mean body gyro/jerk signal on Z direction
-tBodyGyroJerk-std()-X - standard deviation body gyro/jerk signal on X direction
-tBodyGyroJerk-std()-Y - standard deviation body gyro/jerk signal on Y direction
-tBodyGyroJerk-std()-Z - standard deviation body gyro/jerk signal on Z direction
-tBodyAccMag-mean() - mean body acceleration mag
-tBodyAccMag-std() - standard deviation body acceleration mag
-tGravityAccMag-mean() - mean gravity acceleration mag
-tGravityAccMag-std() - standard deviation gravity acceleration mag
-tBodyAccJerkMag-mean() - mean body acceleration/jerk mag
-tBodyAccJerkMag-std() - standard deviation gravity acceleration/jerk mag
-tBodyGyroMag-mean() - mean body gyro mag
-tBodyGyroMag-std() - standard deviation body gryo mag
-tBodyGyroJerkMag-mean() - mean body gyro/jerk mag
-tBodyGyroJerkMag-std() - standard deviation body gyro/jerk mag
-fBodyAcc-mean()-X - mean body acceleration (with fourier) on X direction
-fBodyAcc-mean()-Y - mean body acceleration (with fourier) on Y direction
-fBodyAcc-mean()-Z - mean body acceleration (with fourier) on Z direction
-fBodyAcc-std()-X - standard deviation body acceleration (with fourier) on X direction
-fBodyAcc-std()-Y - standard deviation body acceleration (with fourier) on Y direction
-fBodyAcc-std()-Z - standard deviation body acceleration (with fourier) on Z direction
-fBodyAccJerk-mean()-X - mean body acceleration/jerk (with fourier) on X direction
-fBodyAccJerk-mean()-Y - mean body acceleration/jerk (with fourier) on Y direction
-fBodyAccJerk-mean()-Z - mean body acceleration/jerk (with fourier) on Z direction
-fBodyAccJerk-std()-X - standard deviation body acceleration/jerk (with fourier) on X direction
-fBodyAccJerk-std()-Y - standard deviation body acceleration/jerk (with fourier) on Y direction
-fBodyAccJerk-std()-Z - standard deviation body acceleration/jerk (with fourier) on Z direction
-fBodyGyro-mean()-X - mean body gyro (with fourier) on X direction
-fBodyGyro-mean()-Y - mean body gyro (with fourier) on Y direction
-fBodyGyro-mean()-Z - mean body gyro (with fourier) on Z direction
-fBodyGyro-std()-X - standard deviation body gyro (with fourier) on X direction
-fBodyGyro-std()-Y - standard deviation body gyro (with fourier) on Y direction
-fBodyGyro-std()-Z - standard deviation body gyro (with fourier) on Z direction
-fBodyAccMag-mean() - mean body acceleration mag (with fourier) 
-fBodyAccMag-std() - standard deviation gravity acceleration on X direction
-fBodyBodyAccJerkMag-mean() - mean body acceleration/jerk mag (with fourier)
-fBodyBodyAccJerkMag-std() - standard deviation body acceleration/jerk mag (with fourier)
-fBodyBodyGyroMag-mean() - mean body gyro mag (with fourier)
-fBodyBodyGyroMag-std() - standard deviation body gyro mag (with fourier)
-fBodyBodyGyroJerkMag-mean() - mean body gyro/jerk mag (with fourier)
-fBodyBodyGyroJerkMag-std() - standard deviation body gyro/jerk mag (with fourier)
+Processed Data: Assignment was converted to a subset of the original variables which include the following:  
+Subject - identifying number  
+Activity - activity type  
+tBodyAcc-mean()-X - mean body acceleration on X direction  
+tBodyAcc-mean()-Y - mean body acceleration on Y direction  
+tBodyAcc-mean()-Z - mean body acceleration on Z direction  
+tBodyAcc-std()-X - standard deviation body acceleration on X direction  
+tBodyAcc-std()-Y - standard deviation body acceleration on Y direction  
+tBodyAcc-std()-Z - standard deviation body acceleration on Z direction  
+tGravityAcc-mean()-X - mean gravity acceleration on X direction  
+tGravityAcc-mean()-Y - mean gravity acceleration on Y direction  
+tGravityAcc-mean()-Z - mean gravity acceleration on Z direction  
+tGravityAcc-std()-X - standard deviation gravity acceleration on X direction  
+tGravityAcc-std()-Y - standard deviation gravity acceleration on Y direction  
+tGravityAcc-std()-Z- standard deviation gravity acceleration on Z direction  
+tBodyAccJerk-mean()-X - mean body jerk signals on X direction  
+tBodyAccJerk-mean()-Y - mean body jerk signals on Y direction  
+tBodyAccJerk-mean()-Z - mean body jerk signals on Z direction  
+tBodyAccJerk-std()-X - standard deviation body jerk signals onX direction  
+tBodyAccJerk-std()-Y - standard deviation body jerk signals on Y direction  
+tBodyAccJerk-std()-Z - standard deviation body jerk signals on Z direction  
+tBodyGyro-mean()-X - mean body gyro on X direction  
+tBodyGyro-mean()-Y - mean body gyro on Y direction  
+tBodyGyro-mean()-Z - mean body gyro on Z direction  
+tBodyGyro-std()-X - standard deviation body gyro on X direction  
+tBodyGyro-std()-Y - standard deviation body gyro on Y direction  
+tBodyGyro-std()-Z - standard deviation body gyro on Z direction  
+tBodyGyroJerk-mean()-X - mean body gyro/jerk signal on X direction  
+tBodyGyroJerk-mean()-Y - mean body gyro/jerk signal on Y direction  
+tBodyGyroJerk-mean()-Z - mean body gyro/jerk signal on Z direction  
+tBodyGyroJerk-std()-X - standard deviation body gyro/jerk signal on X direction  
+tBodyGyroJerk-std()-Y - standard deviation body gyro/jerk signal on Y direction  
+tBodyGyroJerk-std()-Z - standard deviation body gyro/jerk signal on Z direction  
+tBodyAccMag-mean() - mean body acceleration mag  
+tBodyAccMag-std() - standard deviation body acceleration mag  
+tGravityAccMag-mean() - mean gravity acceleration mag  
+tGravityAccMag-std() - standard deviation gravity acceleration mag  
+tBodyAccJerkMag-mean() - mean body acceleration/jerk mag  
+tBodyAccJerkMag-std() - standard deviation gravity acceleration/jerk mag  
+tBodyGyroMag-mean() - mean body gyro mag  
+tBodyGyroMag-std() - standard deviation body gryo mag  
+tBodyGyroJerkMag-mean() - mean body gyro/jerk mag  
+tBodyGyroJerkMag-std() - standard deviation body gyro/jerk mag  
+fBodyAcc-mean()-X - mean body acceleration (with fourier) on X direction  
+fBodyAcc-mean()-Y - mean body acceleration (with fourier) on Y direction  
+fBodyAcc-mean()-Z - mean body acceleration (with fourier) on Z direction  
+fBodyAcc-std()-X - standard deviation body acceleration (with fourier) on X direction  
+fBodyAcc-std()-Y - standard deviation body acceleration (with fourier) on Y direction  
+fBodyAcc-std()-Z - standard deviation body acceleration (with fourier) on Z direction  
+fBodyAccJerk-mean()-X - mean body acceleration/jerk (with fourier) on X direction  
+fBodyAccJerk-mean()-Y - mean body acceleration/jerk (with fourier) on Y direction  
+fBodyAccJerk-mean()-Z - mean body acceleration/jerk (with fourier) on Z direction  
+fBodyAccJerk-std()-X - standard deviation body acceleration/jerk (with fourier) on X direction  
+fBodyAccJerk-std()-Y - standard deviation body acceleration/jerk (with fourier) on Y direction  
+fBodyAccJerk-std()-Z - standard deviation body acceleration/jerk (with fourier) on Z direction  
+fBodyGyro-mean()-X - mean body gyro (with fourier) on X direction  
+fBodyGyro-mean()-Y - mean body gyro (with fourier) on Y direction  
+fBodyGyro-mean()-Z - mean body gyro (with fourier) on Z direction  
+fBodyGyro-std()-X - standard deviation body gyro (with fourier) onX direction  
+fBodyGyro-std()-Y - standard deviation body gyro (with fourier) on Y direction  
+fBodyGyro-std()-Z - standard deviation body gyro (with fourier) on Z direction  
+fBodyAccMag-mean() - mean body acceleration mag (with fourier)   
+fBodyAccMag-std() - standard deviation gravity acceleration on X direction  
+fBodyBodyAccJerkMag-mean() - mean body acceleration/jerk mag (with fourier)  
+fBodyBodyAccJerkMag-std() - standard deviation body acceleration/jerk mag (with fourier)  
+fBodyBodyGyroMag-mean() - mean body gyro mag (with fourier)  
+fBodyBodyGyroMag-std() - standard deviation body gyro mag (with fourier)  
+fBodyBodyGyroJerkMag-mean() - mean body gyro/jerk mag (with fourier)  
+fBodyBodyGyroJerkMag-std() - standard deviation body gyro/jerk mag (with fourier)  
