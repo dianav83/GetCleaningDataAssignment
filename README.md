@@ -5,12 +5,12 @@ To run the analysis code, you will also need to have the plyr and dplyr packages
 
 Source the code with run_analysis.R
 
-This code takes the raw test and train datasets, and completes the following:
-1. Concatenates them into the same dataset
-2. Identifies the activity names
-3. Assigns variable names to each column. 
-4. Remove any duplicated columns
-5. Extract all columns that contained data calculating mean or standard deviation of a variable.
+This code takes the raw test and train datasets, and completes the following:  
+1. Concatenates them into the same dataset  
+2. Identifies the activity names  
+3. Assigns variable names to each column  
+4. Remove any duplicated columns  
+5. Extract all columns that contained data calculating mean or standard deviation of a variable  
 
 This created data set is now tidy. It no longer has duplicated columns, each column represents its own variable, and they all have names identified by the code book. We have also removed all columns not related to the mean and standard deviation, further narrowing the data set by removing all data that is not neccessary to this investigation.
 
@@ -18,5 +18,5 @@ The code then creates a new, smaller tidy data set, grouping the data by subject
 
 To read this file, use the command 
 
-data <- read.table("tidydata.txt", header = TRUE)
+data <- read.table("tidydata.txt", header = TRUE)  
 View(data)
